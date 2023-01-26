@@ -1,5 +1,7 @@
 # Juego-Phaser-Javascript
 
+Este juego es un infinite-jumper al estilo "Doodle jump"
+
 Este es la lista de reproduccion:
 https://www.youtube.com/playlist?list=PLumYWZ2t7CRtojYrBNKu-TSXY5VbTGzIY
 
